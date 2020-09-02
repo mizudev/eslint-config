@@ -1,8 +1,8 @@
 {
   "name": "@mizudev/eslint-config",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "ESLint configs used by Mizu Development developer team",
-  "repository": "git@github.com:mizudev/eslint-config",
+  "repository": "https://github.com/mizudev/eslint-config.git",
   "license": "AGPL-3.0",
   "author": "Mizu Development developer team",
   "main": "index.js",
