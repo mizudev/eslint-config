@@ -7,10 +7,10 @@
   "author": "Mizu Development developer team",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint **/**.js"
+    "lint": "eslint --ignore-path .gitignore ."
   },
   "eslintConfig": {
-    "extends": "@hazmi35/eslint-config/node"
+    "extends": "./index.js"
   },
   "dependencies": {
     "@hazmi35/eslint-config": "^2.0.0"
