@@ -1,6 +1,6 @@
 {
   "name": "@mizudev/eslint-config",
-  "version": "1.9.3",
+  "version": "1.9.4",
   "description": "ESLint configs used by Mizu Development developer team",
   "repository": "https://github.com/mizudev/eslint-config.git",
   "license": "AGPL-3.0",
