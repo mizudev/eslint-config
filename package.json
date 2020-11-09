@@ -1,6 +1,6 @@
 {
   "name": "@mizudev/eslint-config",
-  "version": "2.0.0",
+  "version": "2.2.0",
   "description": "ESLint configs used by Mizu Development developer team",
   "repository": "https://github.com/mizudev/eslint-config.git",
   "license": "AGPL-3.0",
@@ -13,7 +13,7 @@
     "extends": "./index.js"
   },
   "dependencies": {
-    "@hazmi35/eslint-config": "^3.0.0"
+    "@hazmi35/eslint-config": "^3.2.0"
   },
   "devDependencies": {
     "@types/node": "^14.14.6",
