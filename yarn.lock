@@ -39,9 +39,9 @@
     strip-json-comments "^3.1.1"
 
 "@hazmi35/eslint-config@^4.0.0":
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/@hazmi35/eslint-config/-/eslint-config-4.0.0.tgz#5fd9ec9408467c6b1146d2de7d861a9677203ca2"
-  integrity sha512-CUWEJfs4xIqZpajZzEwadWRIgETqtCFzITkU6Swkc13FEdtA8uhvV67KIsqK842PHzgJhLmDIGyDQAURqsEskA==
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/@hazmi35/eslint-config/-/eslint-config-4.1.1.tgz#ebc1f1749c8dd6981da56222e09336ba57b32b47"
+  integrity sha512-KaeJKgvaCUG6Qa4ZNbDFZ8NXjEda5xXYxvyw2aV9UTs8IrHhQG+oFpky0qiooR5itdWFGcOlU9OhdnfCKH605w==
 
 "@humanwhocodes/config-array@^0.5.0":
   version "0.5.0"
